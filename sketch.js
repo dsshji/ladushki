@@ -577,7 +577,6 @@ function resetGame() {
   state = "CLOSED";
   text_counter = 0;
   screenFlash = 0;
-  girlImages = [];
   
   girl = new Girl();
   
